@@ -1,6 +1,6 @@
 # Kickr Control
 
-Program connects to a Wahoo Kickr or associated GATT (General ATTribute) device and allows for the control of that device.
+Rough architecture for a program that would connect to a GATT (General ATTribute) device and control that device.
 
 
 ### Commandline Interface
